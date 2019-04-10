@@ -4,7 +4,7 @@ NLP-Tasks-
 Descriptions of Files are given below:
 
 
-Brwon_Corpora.ipynb - Doing basic stuff with the Brown and Inaugural corpora.
+Brwon_Corpora.ipynb - Introduction the Brown and Inaugural corpora.
 
 Stopword_Corpus.ipynb - Exploring different language versions of the Stopwords corpus, playing around with the Wordnet and CMUDict lexicons, and using the Tweet Tokenizer.
 

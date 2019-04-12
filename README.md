@@ -14,4 +14,3 @@ WordNetLemmatizer.ipynb - Using Porter Stemmer on random text, using the WordNet
 
 Cosine.ipynb - Finding cosine similarities for collections of text (texts are collected from 3 National Geographic magazine articles)
 
-CRF.ipynb - Sequence Labeling on a NER (Named Entity Recognition) model using CRF in Python
